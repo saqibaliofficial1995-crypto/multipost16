@@ -1,0 +1,45 @@
+{
+  "channel_id": "UC7Kwf9iSr4yjL_Tk0B2CDoQ",
+  "channel_title": "Dawn Garrett",
+  "start_date": "2026-10-18",
+  "end_date": "2026-10-25",
+  "metrics": {
+    "kind": "youtubeAnalytics#resultTable",
+    "columnHeaders": [
+      {
+        "name": "views",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "estimatedMinutesWatched",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "averageViewDuration",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "subscribersGained",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "subscribersLost",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      }
+    ],
+    "rows": [
+      [
+        15,
+        2,
+        35,
+        0,
+        0
+      ]
+    ]
+  }
+}
