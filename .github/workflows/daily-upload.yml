@@ -16,7 +16,7 @@ on:
         default: '1'
 
 concurrency:
-  group: multipost16-${{ github.workflow }}
+  group: multipost16-pipeline
   cancel-in-progress: false
 
 permissions:
